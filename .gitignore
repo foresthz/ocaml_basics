@@ -3,3 +3,6 @@
 *.cmo
 *.cmx
 *.o
+*.cmj
+*.cmt
+*.js
