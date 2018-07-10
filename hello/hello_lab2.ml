@@ -1,2 +1,2 @@
 
-print_endline "hello"
+print_endline "hello\n"
